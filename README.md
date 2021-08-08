@@ -16,12 +16,6 @@
 
 ## Install software for React frontend
 1. Install Node.js at https://nodejs.org/en/
-2. Install react tools
-    ```shell
-    npm install bootstrap@4.6.0 reactstrap@8.9.0 --legacy-peer-deps --save
-    npm install @material-ui/core --save
-    npm install axios@0.21.1 --save
-    ```
 
 ## Start backend server
 1. In a new terminal
