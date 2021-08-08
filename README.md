@@ -38,5 +38,6 @@
     ```shell
     # go front end directory
     cd C:\xxx\yyy\frontend
+    npm install
     npm start
     ```
